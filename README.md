@@ -21,3 +21,12 @@
 <img width="960" alt="13" src="https://github.com/clfrhr100/wedserver/assets/52455806/c69e0b02-9e06-4657-ae6f-7fc6bc11cb05">
 
 ## [4주차과제]
+
+## 어드민 폴더 안에 있는 "LISTENER.ORA", "tnsnames.ora" 파일을 수정
+<img width="780" alt="어드민 리스너 파일" src="https://github.com/clfrhr100/wedserver/assets/52455806/89b00e68-37ab-4b60-a6a4-3fa2743c6595">
+
+## sql 연결
+<img width="734" alt="sql 사진" src="https://github.com/clfrhr100/wedserver/assets/52455806/d2c12ae5-140c-4ee8-b185-67dab3c167d3">
+
+## 명함검색 결과
+<img width="960" alt="웹서버 4주차" src="https://github.com/clfrhr100/wedserver/assets/52455806/e9ae6b2f-6e4b-4f0e-830e-ed4dd417fda8">
