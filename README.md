@@ -30,3 +30,17 @@
 
 ## 명함검색 결과
 <img width="960" alt="웹서버 4주차" src="https://github.com/clfrhr100/wedserver/assets/52455806/e9ae6b2f-6e4b-4f0e-830e-ed4dd417fda8">
+
+## [6주차과제]
+
+## input.jsp 코드
+<img width="960" alt="412-1" src="https://github.com/clfrhr100/wedserver/assets/52455806/8e1154ce-ed8c-4c9e-b8fd-c8854c10e9ea">
+
+## 저장오류발생 구현
+<img width="960" alt="412-2" src="https://github.com/clfrhr100/wedserver/assets/52455806/e04f9421-93f1-4e7b-8f4e-4353ca3b5ae6">
+
+## 네임카드테이블
+<img width="734" alt="412-4" src="https://github.com/clfrhr100/wedserver/assets/52455806/d58da23f-2881-4aaf-91d5-2d050f917ee3">
+
+## 검색 기능 구현하기
+<img width="960" alt="412-3" src="https://github.com/clfrhr100/wedserver/assets/52455806/87ac0334-a5b3-4ac7-a7a9-efd16d837033">
